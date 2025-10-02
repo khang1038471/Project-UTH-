@@ -1,0 +1,1 @@
+Ứng dụng Flutter này hiển thị một màn hình hồ sơ cá nhân đơn giản. Khi chạy, chương trình mở ra ProfileScreen với bố cục gồm ảnh đại diện hình tròn, bên dưới là họ tên in đậm và mã số sinh viên màu xám. Toàn bộ nội dung được căn giữa màn hình bằng Center và Column. Cấu trúc gọn gàng, dễ hiểu, phù hợp để làm mẫu giới thiệu thông tin cá nhân.

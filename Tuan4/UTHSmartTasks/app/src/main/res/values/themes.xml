@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme của app kế thừa Material3 DayNight -->
+    <style name="Theme.UTHSmartTasks" parent="Theme.Material3.DayNight">
+        <!-- Tắt ActionBar để dùng Compose -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+
+        <!-- Không cần colorPrimary nếu bạn không muốn override -->
+        <!-- Nếu muốn trong suốt status bar (tuỳ chọn) -->
+        <!-- <item name="android:statusBarColor">@android:color/transparent</item> -->
+    </style>
+</resources>
